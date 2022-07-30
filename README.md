@@ -1,2 +1,5 @@
 # PHMforRPI02W
-This script will fast convert your Raspberry Pi 0 2 W into a portable hacking machine. Enjoy!
+Just run install.sh after giving execute permission to file.
+Use this comands in folders:
+  chmod +x install.sh
+  ./install.sh
