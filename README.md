@@ -7,7 +7,4 @@ Use this comands in folders:
   chmod +x install.sh
   
   
-  and
-  
-  
   ./install.sh
