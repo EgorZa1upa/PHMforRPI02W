@@ -56,4 +56,3 @@ chmod 775 /home/kali/auto
 echo "chmod done"
 echo " "
 echo "END of Script... shutdown!"
-sudo shutdown now
