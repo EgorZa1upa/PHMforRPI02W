@@ -2,7 +2,7 @@
 This script makes your Pi Zero 2 W a Portable Hacking Machine ! 
 Which will autologin your Raspberry Pi and can be used on usb interface with mobile phone!
 
-Install the Kali-Linux for u Pi
+Install the Kali-Linux for u Pi (kali-linux-2021.4-rpi-zero-2-w-armhf) usning (Etcher)
 
 Create ssh in BOOT
 
