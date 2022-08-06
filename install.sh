@@ -35,12 +35,6 @@ echo "mv done"
 cp interfaces /etc/network/interfaces
 echo "cp done"
 echo " "
-echo "****************Setting up wpa_supplicant***************"
-mv /etc/wpa_supplicant/wpa_supplicant.conf /etc/wpa_supplicant/wpa_supplicant.conf.bak
-echo "mv done"
-cp wpa_supplicant.conf /etc/wpa_supplicant/wpa_supplicant.conf
-echo "cp done"
-echo " "
 echo "****************Setting up sshd_config (Mosh)***************"
 mv /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
 echo "mv done"
