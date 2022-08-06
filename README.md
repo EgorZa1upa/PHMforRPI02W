@@ -4,5 +4,7 @@ Which will autologin your Raspberry Pi and can be used on usb interface with mob
 
 Just run install.sh after giving execute permission to file.
 Use this comands in folders:
+				
 				chmod +x install.sh
+				
 				./install.sh
