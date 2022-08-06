@@ -23,6 +23,5 @@ And go in folder:
 	cd Pi-Zero-2-W-TEST
 Just run install.sh after giving execute permission to file:
 
-	chmod +x install.sh
-				
+	chmod +x install.sh			
 	./install.sh
